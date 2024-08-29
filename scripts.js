@@ -1,4 +1,4 @@
-import { adicionarItem } from "./js/adicionarItem";
+import { adicionarItem } from "./js/adicionarItem.js";
 
 // ul lista-de-compras
 const botaoSalvarItem = document.getElementById("adicionar-item");
